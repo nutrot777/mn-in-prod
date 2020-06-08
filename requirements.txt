@@ -14,7 +14,7 @@ distro==1.4.0
 Flask==1.1.2
 gast==0.3.3
 grpcio==1.29.0
-gunicorn==18.0
+gunicorn==19.5.0
 h5py==2.10.0
 html5lib==1.0.1
 idna==2.8
